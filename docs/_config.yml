@@ -1,2 +1,5 @@
 title: My Jekyll Site
-theme: jekyll-theme-minimal
+theme: minima
+description: "A test Jekyll site"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol
